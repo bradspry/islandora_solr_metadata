@@ -1,3 +1,6 @@
 .islandora-metadata dd {
 	word-break: break-word;
 }
+.islandora-metadata dd a {
+	display: block;
+}
